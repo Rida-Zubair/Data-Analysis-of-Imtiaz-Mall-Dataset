@@ -57,7 +57,9 @@ This analysis provides a robust framework for addressing challenges in the Imtia
 
 ## Technologies Used
 1.Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 2.Analysis Techniques: EDA, Predictive Modeling, K-Means Clustering
+
 3.Visualization Tools: Histograms, Boxplots, Descriptive Statistics
 
 ## How to Use
