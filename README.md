@@ -39,16 +39,16 @@ Customer Retention Opportunities: Most customers are active (high recency), prov
 Brand Affinity: Clusters with low brand affinity suggest a need for improved brand loyalty strategies.
 
 ## Recommendations
-### Targeted Marketing Campaigns
+### 1.Targeted Marketing Campaigns
 Highlight premium products for high-value customers.
 Offer discounts and frequent-buyer rewards for budget-conscious segments.
-### Customer Retention Strategies
+### 2.Customer Retention Strategies
 Personalized offers for at-risk customers.
 VIP programs for loyal, high-spending customers.
-### Inventory Management
+### 3.Inventory Management
 Stock products preferred by identified customer clusters.
 Use predictive models to anticipate seasonal demand.
-### Enhance Engagement
+### 4.Enhance Engagement
 Develop tailored campaigns for each customer segment.
 Use insights to design seasonal promotions that align with spending trends.
 
@@ -56,22 +56,23 @@ Use insights to design seasonal promotions that align with spending trends.
 This analysis provides a robust framework for addressing challenges in the Imtiaz Mall Electronics Section. By leveraging clustering, predictive modeling, and EDA insights, the business can achieve improved customer satisfaction, retention, and sales growth. Immediate action based on these findings is crucial for gaining a competitive edge.
 
 ## Technologies Used
-Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-Analysis Techniques: EDA, Predictive Modeling, K-Means Clustering
-Visualization Tools: Histograms, Boxplots, Descriptive Statistics
+1.Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+2.Analysis Techniques: EDA, Predictive Modeling, K-Means Clustering
+3.Visualization Tools: Histograms, Boxplots, Descriptive Statistics
 
 ## How to Use
-### Setup:
+### 1.Setup:
 Clone this repository.
 Ensure all dependencies are installed (listed in requirements.txt).
-### Data Analysis:
+### 2.Data Analysis:
 Run the Jupyter Notebook for EDA, clustering, and predictive modeling.
 Modify the parameters to adapt to different datasets.
-### Insights and Actions:
+### 3.Insights and Actions:
 Utilize the recommendations to inform marketing, inventory, and customer retention strategies.
 
 ## Authors
 Rida Zubair
+
 Muneeb Lone
 
 This project was developed as part of the Introduction to Data Science course at the National University of Computer and Emerging Sciences.
