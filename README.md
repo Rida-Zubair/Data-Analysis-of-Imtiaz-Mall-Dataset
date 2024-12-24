@@ -56,11 +56,11 @@ Use insights to design seasonal promotions that align with spending trends.
 This analysis provides a robust framework for addressing challenges in the Imtiaz Mall Electronics Section. By leveraging clustering, predictive modeling, and EDA insights, the business can achieve improved customer satisfaction, retention, and sales growth. Immediate action based on these findings is crucial for gaining a competitive edge.
 
 ## Technologies Used
-1.Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+1. Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-2.Analysis Techniques: EDA, Predictive Modeling, K-Means Clustering
+2. Analysis Techniques: EDA, Predictive Modeling, K-Means Clustering
 
-3.Visualization Tools: Histograms, Boxplots, Descriptive Statistics
+3. Visualization Tools: Histograms, Boxplots, Descriptive Statistics
 
 ## How to Use
 ### 1.Setup:
